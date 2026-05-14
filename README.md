@@ -17,11 +17,20 @@
 
 </div>
 
+## 🏆 GitHub Trophies
+
 <div align=center>
   
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ItsDenji777&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
 ---
+
+<div align=center>
+  
+#### 👀 Profile Views
+  
+![](https://komarev.com/ghpvc/?username=ItsDenji777&abbreviated=true&style=plastic&label=VIEW+COUNT&color=blueviolet)
+
+</div>
