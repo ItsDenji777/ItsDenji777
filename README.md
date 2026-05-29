@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "Cosmic Diary"<br>🌱 I’m currently learning "PHP"<br>💬 Ask me about **Anything~**<br>⚡ Fun fact "I started programming when i was in the 3rd Grade!"
+🔭 I’m currently working on "Cosmic Diary"<br>🌱 I’m currently learning "Node.js"<br>💬 Ask me about **Anything~**<br>⚡ Fun fact "I started programming when i was in the 3rd Grade!"
 
 
 ## 🌐 Socials:
