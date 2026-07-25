@@ -17,14 +17,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align=center>
-  
-![](https://github-profile-trophy.vercel.app/?username=ItsDenji777&theme=aura&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
 ---
 
 <div align=center>
