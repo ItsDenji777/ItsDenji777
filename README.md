@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "My Website"<br>🌱 I’m currently learning "React"<br>💬 Ask me about **Anything~**<br>⚡ Fun fact "I started programming when i was in the 3rd Grade!"
+🔭 I’m currently working on "DenjiOS"<br>🌱 I’m currently learning "React"<br>💬 Ask me about **Anything~**<br>⚡ Fun fact "I started programming when i was in the 3rd Grade!"
 
 
 ## 🌐 Socials:
