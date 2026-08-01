@@ -8,7 +8,7 @@
   <img src="assets/images/seperator.png" alt="separator" width="100%">
   <br>
 
-  <h2><img src="assets/images/ContactMe.png" width="500" alt="Contact Title"></h2>
+  <h3><img src="assets/images/ContactMe.png" width="500" alt="Contact Title"></h3>
   <a href="https://x.com/DenjisWorkspace">
     <img src="assets/images/twitter.png" width="55" alt="Twitter">
   </a>
