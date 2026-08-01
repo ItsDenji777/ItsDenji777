@@ -9,22 +9,16 @@
   <br>
 
   <h3><img src="assets/images/ContactMe.png" width="500" alt="Contact Title"></h3>
-  <a href="https://x.com/DenjisWorkspace">
-    <img src="assets/images/twitter.png" width="55" alt="Twitter">
-  </a>
-  &nbsp;
-  <a href="https://t.me/ItsDenji777">
-    <img src="assets/images/telegram.png" width="55" alt="Telegram">
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/its.denji777">
-    <img src="assets/images/instagram.png" width="55" alt="Instagram">
-  </a>
-  <br><br>
-  <a href="mailto:contact-me@kasra-seydi.ir">
-    <img src="assets/images/sendmail.png" width="300" alt="Email me">
-  </a>
-  <br><br>
+    <a href="https://x.com/DenjisWorkspace"><img src="assets/images/twitter.png" width="55" alt="Twitter"></a>
+    &nbsp;
+    <a href="https://t.me/ItsDenji777"><img src="assets/images/telegram.png" width="55" alt="Telegram"></a>
+    &nbsp;
+    <a href="https://instagram.com/its.denji777"><img src="assets/images/instagram.png" width="55" alt="Instagram"></a>
+    <br><br>
+    <a href="mailto:contact-me@kasra-seydi.ir">
+      <img src="assets/images/sendmail.png" width="300" alt="Email me">
+    </a>
+    <br><br>
   <img src="assets/images/seperator.png" alt="separator" width="100%">
   <br>
 
