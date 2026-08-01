@@ -31,7 +31,7 @@
 <div style="font-size:0; text-align:center;">
   <img src="assets/images/checkitout.png" width="800" alt="Resume Title" style="display:block; margin:0 auto;">
   <a href="https://kasra-seydi.ir">
-    <img src="assets/images/clickme.png" width="600" alt="Website Link" style="display:block; margin:0 auto; margin-top: -40px;">
+    <img src="assets/images/clickme.png" width="600" alt="Website Link" style="display:block; margin:0 auto; margin-top: -40px">
   </a>
 </div>
 
